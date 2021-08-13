@@ -9,6 +9,8 @@ public class HelloJava {
 	
 	public HelloJava() {
 		System.out.println("Hello Java :: constructor");
+		System.out.println("Dev 2 1st changes”);
+
 		
 	
 
