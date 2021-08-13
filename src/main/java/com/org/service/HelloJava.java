@@ -21,6 +21,9 @@ public class HelloJava {
 
 
 	}
+ public void dev3(){
+System.out.println("dev3 method”);
+}
 	
 	
 	
