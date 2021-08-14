@@ -8,6 +8,7 @@ import com.org.service.HelloJava;
 
 @SpringBootApplication
 public class Application {
+String name =”Dilip Changes”;
 
 	public static void main(String[] args) {
 		ConfigurableApplicationContext context = SpringApplication.run(Application.class, args);
